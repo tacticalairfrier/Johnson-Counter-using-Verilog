@@ -1,0 +1,5 @@
+# Waveform simulation files
+*.vvp
+*.vcd
+# yosys scripts
+*ys
